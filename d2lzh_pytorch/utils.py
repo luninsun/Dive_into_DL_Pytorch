@@ -4,7 +4,7 @@ import time
 from PIL import Image
 import torchvision
 
-# from IPython import display
+from IPython import display
 from matplotlib import pyplot as plt
 
 def show_images(imgs, num_rows, num_cols, scale=2):
